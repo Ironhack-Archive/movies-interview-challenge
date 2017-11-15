@@ -13,9 +13,9 @@ and send the URL of that repo via email.
 We'll reach out to schedule your code review.
 
 ## Introduction
-You are the CTO of a small disuptive startup in stealth mode
-with a single onjective: to take down IMDB.
-Your hoping that your first technology decision will be an impactful one:
+You are the CTO of a small disruptive startup in stealth mode
+with a single objective: to take down IMDB.
+You're hoping that your first technology decision will be an impactful one:
 your application will use JavaScript everywhere!
 JavaScript is on the rise so what can go wrong?
 
