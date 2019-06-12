@@ -13,6 +13,8 @@ Push your code to a public repository on your GitHub account and send its URL vi
 ## Introduction
 You are the CTO of a small disruptive startup in stealth mode with a single objective: to take down IMDB. You're hoping that your first technology decision will be an impactful one: your application will use JavaScript everywhere! JavaScript is on the rise, so what can go wrong?
 
+## Techologies
+
 Your goal is to create your prototype: a simple CRUD application for movies.
 To do this, you need to:
 - Use **NodeJS and ExpressJS**.
@@ -22,6 +24,8 @@ To do this, you need to:
 - Use any of the view engines (_BONUS_ points for using *handlebars*)
 - Apply **basic CSS styling**. (No page should look unstyled. Feel free to use a CSS component library like Bootstrap or Materialize or any other.)
 - Show **validation feedback** when a form is submitted incorrectly.
+
+## Features
 
 Your application should have the following **features**:
 1. You should have registered users:
