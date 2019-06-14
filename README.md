@@ -13,7 +13,7 @@ Push your code to a public repository on your GitHub account and send its URL vi
 ## Introduction
 You are the CTO of a small disruptive startup in stealth mode with a single objective: to take down IMDB. You're hoping that your first technology decision will be an impactful one: your application will use JavaScript everywhere! JavaScript is on the rise, so what can go wrong?
 
-## Techologies
+## Technologies
 
 Your goal is to create your prototype: a simple CRUD application for movies.
 To do this, you need to:
