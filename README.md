@@ -3,7 +3,7 @@
 # LT Interview Challenge | Movies App 
 
 ## Goals
-1. Apply technologies of the MERN stack. (React is a bonus)
+1. Apply technologies of the MERN stack. (Redux/Context is not mandatory.)
 2. Demonstrate an overall grasp of Web development fundamentals.
 3. Talk about your code during the code review.
 
