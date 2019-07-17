@@ -15,13 +15,13 @@ You are the CTO of a small disruptive startup in stealth mode with a single obje
 
 ## Technologies
 
-Your goal is to create your prototype: a simple CRUD application for movies.
+Your goal is to create your prototype: a simple full-stack CRUD application for movies.
 To do this, you need to:
 - Use **NodeJS and ExpressJS**.
   (_BONUS_ points for following REST naming conventions in your URLs)
 - Use **your choice of database**.
   (_BONUS_ points for using MongoDB)
-- Use any of the view engines (_BONUS_ points for using *handlebars*)
+- Use **ReactJS** in the frontend
 - Apply **basic CSS styling**. (No page should look unstyled. Feel free to use a CSS component library like Bootstrap or Materialize or any other.)
 - Show **validation feedback** when a form is submitted incorrectly.
 
@@ -38,6 +38,13 @@ Your application should have the following **features**:
 3. Users should be able to **see the details page of each movie**.
 4. Users should be able to **update existing movies**.
 5. Users should be able to **delete movies**.
+
+To summarize:
+
+The **schema for a user** should include:
+- full name
+- email
+- password
 
 The **schema for a movie** should include:
 - title
