@@ -3,7 +3,7 @@
 # LT Interview Challenge | Movies App 
 
 ## Goals
-1. Apply technologies of the MERN stack. (Redux/Context is not mandatory.)
+1. Apply technologies of the **MERN stack**. (Redux/Context is not mandatory.)
 2. Demonstrate an overall grasp of Web development fundamentals.
 3. Talk about your code during the code review.
 
@@ -11,7 +11,7 @@
 Push your code to a public repository on your GitHub account and send its URL via email. We'll check the code quality and reach out to schedule your code review.
 
 ## Introduction
-You are the CTO of a small disruptive startup in stealth mode with a single objective: to take down IMDB. You're hoping that your first technology decision will be an impactful one: your application will use JavaScript everywhere! JavaScript is on the rise, so what can go wrong?
+You are the CTO of a small disruptive startup in stealth mode with a single objective: to take down IMDB. You're hoping that your first technology decision will be an impactful one: **your application will use JavaScript everywhere**! JavaScript is on the rise, so what can go wrong?
 
 ## Technologies
 
